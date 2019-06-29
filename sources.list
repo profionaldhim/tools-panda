@@ -1,0 +1,2 @@
+deb http://ba.mirror.garr.it/mirrors/parrot stable main contrib non-free
+deb-src http://ba.mirror.garr.it/mirrors/parrot stable main contrib non-free
